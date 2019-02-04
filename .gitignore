@@ -1,3 +1,6 @@
+# Ignore this
+.idea
+
 archive
 node_modules
 package-lock.json
