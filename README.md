@@ -19,3 +19,6 @@
 - `1964` Syncom 3 launched and was able to telecast the Olympics.
 
 - `1969` The formation of ARPANET commnected for the first time via satellite
+
+# Tutorial
+![alt text](images/remote.png)
