@@ -6,7 +6,7 @@
 
 - `1946` Project Whirlwind begins, which was to build fight simulators to train bomber crews.
 
-- `19481` The first computer program to run on a computer by Frederic Williams, Tome Killburn, and Geoff Toothill.
+- `1948` The first computer program to run on a computer by Frederic Williams, Tome Killburn, and Geoff Toothill.
 
 - `1965` Two computers use packet-switching technology at MIT
 
