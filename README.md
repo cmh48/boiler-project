@@ -7,4 +7,10 @@
 
 1964 - Syncom 3 launched and was able to telecast the Olympics.
 
-1969 - 
+1969 - The formation of ARPANET commnected for the first time via satellite
+
+1971 - Email was the innovation MIT alum Ray Tomlinson 
+
+1973 - ARPENT connected 40 universities
+
+
