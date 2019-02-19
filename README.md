@@ -13,3 +13,5 @@ badge notifications.
 - favicon.ico - Basically creates thumbnail for website
 - humans.txt - Lists who contributed to the website. 
 - icon.png - creates desktop image.
+- index.html - the most common name used for the default page shown on a 
+website if no other page is specified when a visitor requests the site.
