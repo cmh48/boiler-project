@@ -23,7 +23,7 @@ site with requests
 - tile-wide.png - appears to compress/stretch the image defined below 
 - tile.png - contains picture of star
 
-#Timeline
+# Timeline
 
 - `1945` Plankalkül is in the works by Konrad Zuse
 
