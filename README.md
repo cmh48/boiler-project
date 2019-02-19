@@ -11,3 +11,5 @@ developers working on different IDEs.
 - browserconfig.xml - used to define pinned site customizations, such as titles, notifications
 badge notifications. 
 - favicon.ico - Basically creates thumbnail for website
+- humans.txt - Lists who contributed to the website. 
+- icon.png - creates desktop image.
