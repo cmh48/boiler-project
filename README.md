@@ -5,4 +5,4 @@
 - Js - Folder used to store java script.
 - .editconfig - maintains consistent coding styles for multiple
 developers working on different IDEs
-- .gitattributes - 
+- .gitattributes - Defines atributes per path
