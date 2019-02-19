@@ -4,5 +4,6 @@
 - Img - Folder used for storing images.
 - Js - Folder used to store java script.
 - .editconfig - maintains consistent coding styles for multiple
-developers working on different IDEs
-- .gitattributes - Defines atributes per path
+developers working on different IDEs.
+- .gitattributes - Defines attributes per path.
+- .gitignore -  specifies intentionally unmarked files to ignore.
