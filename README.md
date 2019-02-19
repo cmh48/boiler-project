@@ -18,3 +18,4 @@ website if no other page is specified when a visitor requests the site.
 - robots.txt -  tells search engine crawlers which pages or files the crawler can 
 or can't request from your site. This is used mainly to avoid overloading your 
 site with requests
+- tile-wide.png: appears to compress/stretch the image 
