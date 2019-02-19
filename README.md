@@ -10,3 +10,4 @@ developers working on different IDEs.
 - 404.html - provides error messages. 
 - browserconfig.xml - used to define pinned site customizations, such as titles, notifications
 badge notifications. 
+- favicon.ico - Basically creates thumbnail for website
