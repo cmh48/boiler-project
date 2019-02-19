@@ -8,4 +8,5 @@ developers working on different IDEs.
 - .gitattributes - Defines attributes per path.
 - .gitignore -  specifies intentionally unmarked files to ignore.
 - 404.html - provides error messages. 
-
+- browserconfig.xml - used to define pinned site customizations, such as titles, notifications
+badge notifications. 
