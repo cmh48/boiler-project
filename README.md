@@ -65,4 +65,16 @@ site with requests
 
 # Tutorial
 
+Step 1) To begin, install WebStorm onto your computer by going to https://git-scm.com/download/mac for macs and https://git-scm.com/download/win for windows.
+
+**WebStorm is an IDE (_a software that was built to hold the necessary basic tools to write and test software_) that gives users
+coding assistance for JavaScript, HTML, and CSS, enhancing productivity.**
+
+Step 2) After installment it complete create an account.
+
+Step 3) Head over to https://github.com and create an account here as well.
+
+The creation of both these accounts help in collaborating and connecting projects between you and your partner.
+
 ![alt text](images/remote.png)
+
