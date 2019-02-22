@@ -49,7 +49,7 @@ Step 1) To begin, install WebStorm onto your computer by going to https://git-sc
 **WebStorm is an IDE (_a software that was built to hold the necessary basic tools to write and test software_) that gives users
 coding assistance for JavaScript, HTML, and CSS, enhancing productivity.**
 
-Step 2) After installment it complete create an account.
+Step 2) After installment is complete create an account.
 
 Step 3) Head over to https://github.com and create an account here as well.
 
