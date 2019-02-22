@@ -25,6 +25,8 @@ site with requests
 
 # Timeline
 
+- `1945` C. Clarke first purposes an advanced communication network using geosynchronous sateellite technology.
+
 - `1945` Plankalkül is in the works by Konrad Zuse
 
 - `1946` Project Whirlwind begins, which was to build fight simulators to train bomber crews.
@@ -67,14 +69,25 @@ site with requests
 
 Step 1) To begin, install WebStorm onto your computer by going to https://git-scm.com/download/mac for macs and https://git-scm.com/download/win for windows.
 
-**WebStorm is an IDE (_a software that was built to hold the necessary basic tools to write and test software_) that gives users
+- **WebStorm is an IDE (_a software that was built to hold the necessary basic tools to write and test software_) that gives users
 coding assistance for JavaScript, HTML, and CSS, enhancing productivity.**
 
-Step 2) After installment it complete create an account.
+Step 2) After installment is complete create an account.
 
 Step 3) Head over to https://github.com and create an account here as well.
 
-The creation of both these accounts help in collaborating and connecting projects between you and your partner.
+- The creation of both these accounts help in collaborating and connecting projects between you and your partner, and others.
+
+Step 4) Create a repository by clicking on the "__+__" symbol located on the top right corner of your github screen.
+- a `repository` is a place to store and share projects.
+- when creating a repository you have the option to initialize a README file and add a .gitignore (.gitignore file that helps determine which files and directories to ignore in the project)
+
+Step 5) Once your repository is created, add any collaborators onto your project by going into the setting tab, under collaborators.
+Here is where you can search and add people onto your project.
+
+Step 6) Once you have setup your repository and added any collaborators to the project. Launch the WebStorm IDE.
+
+Step 7) With WebStorm opened, on the first page you will see different options such as creating a new project. Because you
+have set up a project in GitHub you may `clone` that project into WebStorm using the "Check Out from Version Control", "Git" function.
 
 ![alt text](images/remote.png)
-
