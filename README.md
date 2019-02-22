@@ -60,7 +60,11 @@ Step 4) Create a repository by clicking on the "__+__" symbol located on the top
 Step 5) Once your repository is created, add any collaborators onto your project by going into the setting tab, under collaborators.
 Here is where you can search and add people onto your project.
 
-  
+Step 6) Once you have setup your repository and added any collaborators to the project. Launch the WebStorm IDE.
+
+Step 7) With WebStorm opened, on the first page you will see different options such as creating a new project. Because you
+have set up a project in GitHub you may `clone` that project into WebStorm using the "Check Out from Version Control", "Git" function.
+- 
 
 ![alt text](images/remote.png)
  
