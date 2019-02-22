@@ -64,7 +64,6 @@ Step 6) Once you have setup your repository and added any collaborators to the p
 
 Step 7) With WebStorm opened, on the first page you will see different options such as creating a new project. Because you
 have set up a project in GitHub you may `clone` that project into WebStorm using the "Check Out from Version Control", "Git" function.
-- 
 
 ![alt text](images/remote.png)
  
