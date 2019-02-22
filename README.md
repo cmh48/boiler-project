@@ -54,9 +54,13 @@ Step 3) Head over to https://github.com and create an account here as well.
 The creation of both these accounts help in collaborating and connecting projects between you and your partner.
 
 Step 4) Create a repository by clicking on the "__+__" symbol located on the top right corner of your github screen.
-- a repository is a place to store and share projects.
+- a `repository` is a place to store and share projects.
 - when creating a repository you have the option to initialize a README file and add a .gitignore (.gitignore file that helps determine which files and directories to ignore in the project)
 
+Step 5) Once your repository is created, add any collaborators onto your project by going into the setting tab, under collaborators.
+Here is where you can search and add people onto your project.
+
+  
 
 ![alt text](images/remote.png)
  
