@@ -42,8 +42,6 @@
 
 # Tutorial
 
-# Tutorial
-
 Step 1) To begin, install WebStorm onto your computer by going to https://git-scm.com/download/mac for macs and https://git-scm.com/download/win for windows.
 
 **WebStorm is an IDE (_a software that was built to hold the necessary basic tools to write and test software_) that gives users
@@ -55,4 +53,10 @@ Step 3) Head over to https://github.com and create an account here as well.
 
 The creation of both these accounts help in collaborating and connecting projects between you and your partner.
 
+Step 4) Create a repository by clicking on the "__+__" symbol located on the top right corner of your github screen.
+- a repository is a place to store and share projects.
+- when creating a repository you have the option to initialize a README file and add a .gitignore (.gitignore file that helps determine which files and directories to ignore in the project)
+
+
 ![alt text](images/remote.png)
+ 
