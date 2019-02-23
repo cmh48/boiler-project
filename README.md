@@ -103,6 +103,8 @@ Step 9) In your branch, whenever you make any edits, make sure you're making con
 Step 10) After you are comfortable with your commits, remember to "push" your progress upto git
 - Pushing allows users to sent their changes up to git so that others in the repository can "pull" those
 same changes to their own local branches.
-
-
 ![alt text](images/.png)
+
+Step 11) Users can also "Pull" their partners work from git if need be(Steps 10 & 11)
+are interchangeable.
+
