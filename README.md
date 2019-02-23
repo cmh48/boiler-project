@@ -96,3 +96,8 @@ have set up a project in GitHub you may `clone` that project into WebStorm using
 
 Step 8) After cloning, you can create branches so you work does not immediately effect the master branch.
 ![alt text](images/branches.png)
+
+Step 9) In your branch, whenever you make any edits, make sure you're making consistent commits (Green Check)
+![alt text](images/commit-icon.png)
+
+Step 10) 
