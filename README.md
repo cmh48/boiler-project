@@ -93,3 +93,6 @@ have set up a project in GitHub you may `clone` that project into WebStorm using
 
 ![alt text](images/clone-or-dwnload.png)
 ![alt text](images/vcs.png)
+
+Step 8) After cloning, you can create branches so you work does not immediately effect the master branch.
+![alt text](images/branches.png)
