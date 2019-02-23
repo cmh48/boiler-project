@@ -112,3 +112,8 @@ Step 12) When done with your changes, you can then "merge" the branch you're wor
 - merging your current branch into the master allows changes you've made to be reflected on 
 the master branch.
 ![alt text](images/.png) 
+
+Step 13) When merge conflicts occur when lines in separate branches would cause conflict with one another 
+![alt text](images/merge-conflict.png)
+
+Step 14)
