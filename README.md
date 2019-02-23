@@ -103,15 +103,15 @@ Step 9) In your branch, whenever you make any edits, make sure you're making con
 Step 10) After you are comfortable with your commits, remember to "push" your progress upto git
 - Pushing allows users to sent their changes up to git so that others in the repository can "pull" those
 same changes to their own local branches.
-![alt text](images/.png)
+![alt text](images/push-icon.png)
 
-Step 11) Users can also "Pull" their partners work from git if need be(Steps 10 & 11
+Step 11) Users can also "Pull"(Blue Check) their partners work from git if need be(Steps 10 & 11
 are interchangeable.)
-
+![alt text](images/commit-icon.png)
 Step 12) When done with your changes, you can then "merge" the branch you're working on into the master branch.
 - merging your current branch into the master allows changes you've made to be reflected on 
 the master branch.
-![alt text](images/.png) 
+![alt text](images/merge.png) 
 
 Step 13) When merge conflicts occur when lines in separate branches would cause conflict with one another 
 ![alt text](images/merge-conflict.png)
