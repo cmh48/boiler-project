@@ -100,5 +100,9 @@ Step 8) After cloning, you can create branches so you work does not immediately 
 Step 9) In your branch, whenever you make any edits, make sure you're making consistent commits (Green Check)
 ![alt text](images/commit-icon.png)
 
-Step 10) 
+Step 10) After you are comfortable with your commits, remember to "push" your progress upto git
+- Pushing allows users to sent their changes up to git so that others in the repository can "pull" those
+same changes to their own local branches.
+
+
 ![alt text](images/.png)
