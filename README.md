@@ -105,6 +105,10 @@ Step 10) After you are comfortable with your commits, remember to "push" your pr
 same changes to their own local branches.
 ![alt text](images/.png)
 
-Step 11) Users can also "Pull" their partners work from git if need be(Steps 10 & 11)
-are interchangeable.
+Step 11) Users can also "Pull" their partners work from git if need be(Steps 10 & 11
+are interchangeable.)
 
+Step 12) When done with your changes, you can then "merge" the branch you're working on into the master branch.
+- merging your current branch into the master allows changes you've made to be reflected on 
+the master branch.
+![alt text](images/.png) 
