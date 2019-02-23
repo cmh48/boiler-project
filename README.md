@@ -78,11 +78,12 @@ Step 3) Head over to https://github.com and create an account here as well.
 - The creation of both these accounts help in collaborating and connecting projects between you and your partner, and others.
 
 Step 4) Create a repository by clicking on the "__+__" symbol located on the top right corner of your github screen.
-
+![alt text](images/new-repository.png)
 - a `repository` is a place to store and share projects.
 - when creating a repository you have the option to initialize a README file and add a .gitignore (.gitignore file that helps determine which files and directories to ignore in the project)
 
 Step 5) Once your repository is created, add any collaborators onto your project by going into the setting tab, under collaborators.
+![alt text](images/collab.png)
 Here is where you can search and add people onto your project.
 
 Step 6) Once you have setup your repository and added any collaborators to the project. Launch the WebStorm IDE.
@@ -90,4 +91,5 @@ Step 6) Once you have setup your repository and added any collaborators to the p
 Step 7) With WebStorm opened, on the first page you will see different options such as creating a new project. Because you
 have set up a project in GitHub you may `clone` that project into WebStorm using the "Check Out from Version Control", "Git" function.
 
-![alt text](images/remote.png)
+![alt text](images/clone-or-dwnload.png)
+![alt text](images/vcs.png)
