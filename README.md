@@ -51,6 +51,10 @@ Step 2) After installment is complete create an account.
 
 Step 3) Head over to https://github.com and create an account here as well.
 
+- `GitHub`  is a code sharing and publishing service that also is a repository hosting service for Git. It allows users 
+acess controland collaborating features while also enabling users to clone or copy other user's repositories onto his/her
+account. 
+
 - The creation of both these accounts help in collaborating and connecting projects between you and your partner, and others.
 
 Step 4) Create a repository by clicking on the "__+__" symbol located on the top right corner of your github screen.
