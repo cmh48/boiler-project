@@ -80,6 +80,10 @@ Step 3) Head over to https://github.com and create an account here as well.
 
 ![alt text](images/github-login.png)
 
+- `GitHub`  is a code sharing and publishing service that also is a repository hosting service for Git. It allows users 
+acess controland collaborating features while also enabling users to clone or copy other user's repositories onto his/her
+account. 
+
 - The creation of both these accounts help in collaborating and connecting projects between you and your partner, and others.
 
 Step 4) Create a repository by clicking on the "__+__" symbol located on the top right corner of your github screen.
@@ -103,6 +107,10 @@ have set up a project in GitHub you may `clone` that project into WebStorm using
 ![alt text](images/clone-or-dwnload.png)
 
 ![alt text](images/vcs.png)
+
+- Git is a Version Control System that tracks the different versions from each project. Meaning if a person needed to go 
+back to a specific point in the project they could. 
+ 
 
 Step 8) After cloning, you can create branches so you work does not immediately effect the master branch.
 
