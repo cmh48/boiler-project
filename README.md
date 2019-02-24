@@ -68,22 +68,31 @@ site with requests
 # Tutorial
 
 Step 1) To begin, install WebStorm onto your computer by going to https://git-scm.com/download/mac for macs and https://git-scm.com/download/win for windows.
+
 ![alt text](images/webstorm-dl.png)
+
 - **WebStorm is an IDE (_a software that was built to hold the necessary basic tools to write and test software_) that gives users
 coding assistance for JavaScript, HTML, and CSS, enhancing productivity.**
 
 Step 2) After installment is complete create an account.
+
 Step 3) Head over to https://github.com and create an account here as well.
+
 ![alt text](images/github-login.png)
+
 - The creation of both these accounts help in collaborating and connecting projects between you and your partner, and others.
 
 Step 4) Create a repository by clicking on the "__+__" symbol located on the top right corner of your github screen.
+
 ![alt text](images/new-repository.png)
+
 - a `repository` is a place to store and share projects.
 - when creating a repository you have the option to initialize a README file and add a .gitignore (.gitignore file that helps determine which files and directories to ignore in the project)
 
 Step 5) Once your repository is created, add any collaborators onto your project by going into the setting tab, under collaborators.
+
 ![alt text](images/collab.png)
+
 Here is where you can search and add people onto your project.
 
 Step 6) Once you have setup your repository and added any collaborators to the project. Launch the WebStorm IDE.
@@ -92,28 +101,38 @@ Step 7) With WebStorm opened, on the first page you will see different options s
 have set up a project in GitHub you may `clone` that project into WebStorm using the "Check Out from Version Control", "Git" function.
 
 ![alt text](images/clone-or-dwnload.png)
+
 ![alt text](images/vcs.png)
 
 Step 8) After cloning, you can create branches so you work does not immediately effect the master branch.
+
 ![alt text](images/branches.png)
 
 Step 9) In your branch, whenever you make any edits, make sure you're making consistent commits (Green Check)
+
 ![alt text](images/commit-icon.png)
 
 Step 10) After you are comfortable with your commits, remember to "push" your progress upto git
+
 - Pushing allows users to sent their changes up to git so that others in the repository can "pull" those
 same changes to their own local branches.
+
 ![alt text](images/push-icon.png)
 
 Step 11) Users can also "Pull"(Blue Check) their partners work from git if need be(Steps 10 & 11
 are interchangeable.)
+
 ![alt text](images/commit-icon.png)
+
 Step 12) When done with your changes, you can then "merge" the branch you're working on into the master branch.
+
 - merging your current branch into the master allows changes you've made to be reflected on 
 the master branch.
+
 ![alt text](images/merge.png) 
 
 Step 13) When merge conflicts occur when lines in separate branches would cause conflict with one another 
+
 ![alt text](images/merge-conflict.png)
 
 Step 14)
