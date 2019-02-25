@@ -143,4 +143,3 @@ Step 13) When merge conflicts occur when lines in separate branches would cause 
 
 ![alt text](images/merge-conflict.png)
 
-Step 14)
